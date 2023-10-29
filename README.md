@@ -1,3 +1,6 @@
+Deployed Link (netlify)
+https://653e30e9210f0d660cdfc287--magnificent-bublanina-58b58d.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
